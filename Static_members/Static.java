@@ -18,7 +18,5 @@ class Hello {
         Static.fun2();
         System.out.println("The country is " + Static.Test.country);
         System.out.println("The city is " + Static.Test.city);
-
     }
 }
-
